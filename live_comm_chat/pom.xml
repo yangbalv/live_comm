@@ -1,0 +1,15 @@
+<?xml version ="1.0"  encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <parent>
+        <artifactId>live_comm_login</artifactId>
+        <groupId>com.wangmeirenxi</groupId>
+        <version>1.0-SNAPSHOT</version>
+
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <version>1.0.0</version>
+    <artifactId>live_comm_chat</artifactId>
+
+
+</project>

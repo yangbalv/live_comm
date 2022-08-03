@@ -17,10 +17,11 @@ p {color:blue;}
 </head>
 
 <body style="background-color:#FFA500;">
-
+<div>
+<h1>欢迎来到在线视频聊天系统</h1>
+</div>
 
 <div class="center-in-center">
-
 <form method="get" action="https://www.baidu.com/s" >
 <input type="hidden" name="ie" value="UTF-8" >
 <span>直接用百度搜索</span><input type="input" name="wd" id="wd">
@@ -28,12 +29,14 @@ p {color:blue;}
 </form>
 
 <form method="post" action="https://www.baidu.com">
-<span>账户名：</span><input type="text" name="user" autofocus><br>
-<span>密码&nbsp&nbsp&nbsp：</span><input type="password" name="password">
+<span>账户名：</span>
+<input type="text" name="user" placeholder="请输入账户" required autofocus ><br>
+<span>密码&nbsp&nbsp&nbsp：</span>
+<input type="password" placeholder="请输入密码" name="password" required>
 <input type="submit">
 </form>
-
 </div>
+
 </body>
 
 <style type="text/css">
@@ -42,7 +45,7 @@ p {color:blue;}
             padding: 0;
 
         }
-        div{
+         .center-in-center{
             width: 400px;
             height: 200px;
             background-color: #EAEAEA;

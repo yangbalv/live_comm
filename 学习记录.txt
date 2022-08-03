@@ -1,0 +1,80 @@
+https://www.runoob.com/html/html-quicklist.html 速查
+https://www.runoob.com/w3cnote/html5-canvas-intro.html canvas
+https://www.runoob.com/svg/svg-tutorial.html svg
+https://www.runoob.com/html/html5-geolocation.html 获取定位
+https://www.runoob.com/html/html5-video.html 视频软件
+https://www.runoob.com/html/html5-webstorage.html web存储信息
+https://www.runoob.com/html/html5-web-sql.html 数据库存储与查询
+
+
+
+
+申明h5
+<!DOCTYPE html>
+
+
+utf-8 编码
+<meta charset="utf-8">
+
+
+
+
+
+表格
+table 
+	tr
+		td
+<table>	定义表格
+<th>	定义表格的表头
+<tr>	定义表格的行
+<td>	定义表格单元
+<caption>	定义表格标题
+<colgroup>	定义表格列的组
+<col>	定义用于表格列的属性
+<thead>	定义表格的页眉
+<tbody>	定义表格的主体
+<tfoot>	定义表格的页脚
+
+列表
+
+<ol>	定义有序列表
+<ul>	定义无序列表
+<li>	定义列表项
+<dl>	定义列表
+<dt>	自定义列表项目
+<dd>	定义自定列表项的描述
+
+
+
+
+HTML 区块元素
+大多数 HTML 元素被定义为块级元素或内联元素。
+块级元素在浏览器显示时，通常会以新行来开始（和结束）。
+
+实例: <h1>, <p>, <ul>, <table>
+
+HTML 内联元素
+内联元素在显示时通常不会以新行开始。
+实例: <b>, <td>, <a>, <img>
+
+HTML <div> 元素
+HTML <div> 元素是块级元素，它可用于组合其他 HTML 元素的容器。
+
+<div> 元素没有特定的含义。除此之外，由于它属于块级元素，浏览器会在其前后显示折行。
+
+如果与 CSS 一同使用，<div> 元素可用于对大的内容块设置样式属性。
+
+<div> 元素的另一个常见的用途是文档布局。它取代了使用表格定义布局的老式方法。使用 <table> 元素进行文档布局不是表格的正确用法。<table> 元素的作用是显示表格化的数据。
+
+HTML <span> 元素
+HTML <span> 元素是内联元素，可用作文本的容器
+
+<span> 元素也没有特定的含义。
+
+当与 CSS 一同使用时，<span> 元素可用于为部分文本设置样式属性。
+
+
+placeholder “预设字”
+
+
+
