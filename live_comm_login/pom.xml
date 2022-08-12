@@ -6,7 +6,7 @@
 
     <groupId>com.wangmeirenxi</groupId>
     <artifactId>live_comm_login</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <dependencies>
         <dependency>
